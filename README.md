@@ -1,4 +1,4 @@
-# LinearRegression
+# LinearRegression on AUTO MPG Dataset
 
 **The MPG (Miles Per Gallon) dataset** is a well-known dataset in machine learning that relates to cars and their various features. This dataset is typically used for regression analysis and predicting the fuel consumption of cars. It contains features such as engine type, number of cylinders, horsepower, car weight, and other attributes that help in predicting fuel consumption.
 
